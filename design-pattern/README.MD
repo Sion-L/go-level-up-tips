@@ -13,6 +13,7 @@
 | 模板方法模式 |[详解](./behavior/template-method/readme.md) |[示例](./behavior/template-method)
 | 访问者模式  |[详解](./behavior/visitor/readme.md) |[示例](./behavior/visitor)
 
+
 ## 创建型
 | 创建型模式 | 详解 | 示例 |
 |-----|---|---|
@@ -21,6 +22,7 @@
 |工厂方法 |[详解](./creative/factory-method/readme.md) |[示例](./creative/factory-method)
 |原型 |[详解](./creative/factory-method/readme.md) |[示例](./creative/factory-method)
 |单例 |[详解](./creative/singleton/readme.md) |[示例](./creative/singleton)
+
 
 ## 结构型
 | 结构型模式 | 详解 | 示例 |
